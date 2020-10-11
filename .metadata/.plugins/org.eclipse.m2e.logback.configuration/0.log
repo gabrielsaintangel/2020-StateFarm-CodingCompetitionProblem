@@ -1,0 +1,396 @@
+2020-10-10 20:05:02,510 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-10-10 20:06:55,872 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sf.codingcompetition2020:coding-competition:1.0.0-SNAPSHOT @ /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/pom.xml.
+2020-10-10 20:06:56,211 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.12/junit-4.12.pom
+2020-10-10 20:06:56,228 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.12/junit-4.12.pom
+2020-10-10 20:06:56,242 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-csv/2.11.2/jackson-dataformat-csv-2.11.2.pom
+2020-10-10 20:06:56,251 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-csv/2.11.2/jackson-dataformat-csv-2.11.2.pom
+2020-10-10 20:06:56,262 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformats-text/2.11.2/jackson-dataformats-text-2.11.2.pom
+2020-10-10 20:06:56,271 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformats-text/2.11.2/jackson-dataformats-text-2.11.2.pom
+2020-10-10 20:06:56,280 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-base/2.11.2/jackson-base-2.11.2.pom
+2020-10-10 20:06:56,290 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-base/2.11.2/jackson-base-2.11.2.pom
+2020-10-10 20:06:56,301 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-bom/2.11.2/jackson-bom-2.11.2.pom
+2020-10-10 20:06:56,311 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-bom/2.11.2/jackson-bom-2.11.2.pom
+2020-10-10 20:06:56,322 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.11/jackson-parent-2.11.pom
+2020-10-10 20:06:56,331 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.11/jackson-parent-2.11.pom
+2020-10-10 20:06:56,340 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/38/oss-parent-38.pom
+2020-10-10 20:06:56,353 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/38/oss-parent-38.pom
+2020-10-10 20:06:56,366 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.11.2/jackson-databind-2.11.2.pom
+2020-10-10 20:06:56,376 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.11.2/jackson-databind-2.11.2.pom
+2020-10-10 20:06:56,388 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.11.2/jackson-annotations-2.11.2.pom
+2020-10-10 20:06:56,397 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.11.2/jackson-annotations-2.11.2.pom
+2020-10-10 20:06:56,410 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.11.2/jackson-core-2.11.2.pom
+2020-10-10 20:06:56,419 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.11.2/jackson-core-2.11.2.pom
+2020-10-10 20:06:56,434 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-csv/2.11.2/jackson-dataformat-csv-2.11.2.jar
+2020-10-10 20:06:56,451 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.11.2/jackson-annotations-2.11.2.jar
+2020-10-10 20:06:56,456 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.12/junit-4.12.jar
+2020-10-10 20:06:56,462 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.11.2/jackson-core-2.11.2.jar
+2020-10-10 20:06:56,462 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.11.2/jackson-databind-2.11.2.jar
+2020-10-10 20:06:56,478 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-csv/2.11.2/jackson-dataformat-csv-2.11.2.jar
+2020-10-10 20:06:56,480 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.11.2/jackson-annotations-2.11.2.jar
+2020-10-10 20:06:56,509 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.12/junit-4.12.jar
+2020-10-10 20:06:56,521 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.11.2/jackson-core-2.11.2.jar
+2020-10-10 20:06:56,552 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.11.2/jackson-databind-2.11.2.jar
+2020-10-10 20:06:56,853 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /2020-StateFarm-CodingCompetitionProblem/src/main/java
+2020-10-10 20:06:56,853 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /2020-StateFarm-CodingCompetitionProblem/src/main/resources
+2020-10-10 20:06:56,854 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /2020-StateFarm-CodingCompetitionProblem/src/test/java
+2020-10-10 20:06:57,547 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2020-10-10 20:06:57,866 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.12/junit-4.12-sources.jar
+2020-10-10 20:06:57,911 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.12/junit-4.12-sources.jar
+2020-10-10 20:06:57,923 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for junit:junit:4.12
+2020-10-10 20:06:58,005 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-csv/2.11.2/jackson-dataformat-csv-2.11.2-sources.jar
+2020-10-10 20:06:58,036 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-csv/2.11.2/jackson-dataformat-csv-2.11.2-sources.jar
+2020-10-10 20:06:58,068 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.dataformat:jackson-dataformat-csv:2.11.2
+2020-10-10 20:06:58,154 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.11.2/jackson-databind-2.11.2-sources.jar
+2020-10-10 20:06:58,254 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.11.2/jackson-databind-2.11.2-sources.jar
+2020-10-10 20:06:58,262 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-databind:2.11.2
+2020-10-10 20:06:58,360 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.11.2/jackson-annotations-2.11.2-sources.jar
+2020-10-10 20:06:58,384 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.11.2/jackson-annotations-2.11.2-sources.jar
+2020-10-10 20:06:58,391 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-annotations:2.11.2
+2020-10-10 20:06:58,468 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.11.2/jackson-core-2.11.2-sources.jar
+2020-10-10 20:06:58,482 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 20:06:58,487 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 20:06:58,496 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 20:06:58,496 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 20:06:58,548 [Worker-10: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.11.2/jackson-core-2.11.2-sources.jar
+2020-10-10 20:06:58,558 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-core:2.11.2
+2020-10-10 20:06:58,564 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for junit:junit:4.12
+2020-10-10 20:06:58,567 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.dataformat:jackson-dataformat-csv:2.11.2
+2020-10-10 20:06:58,570 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-databind:2.11.2
+2020-10-10 20:06:58,572 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-annotations:2.11.2
+2020-10-10 20:06:58,575 [Worker-10: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-core:2.11.2
+2020-10-10 20:06:59,744 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 20:06:59,746 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-10 20:06:59,747 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 20:06:59,747 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 20:07:10,233 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 20:07:10,234 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-10 20:07:10,236 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 20:07:10,236 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 20:11:10,517 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 20:11:10,521 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 20:11:10,524 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 20:11:10,525 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 20:12:48,839 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 20:12:48,840 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 20:12:48,842 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 20:12:48,843 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 20:12:55,054 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 20:12:55,055 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 20:12:55,056 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 20:12:55,057 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 20:53:36,385 [Worker-28: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 20:53:36,386 [Worker-28: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 20:53:36,387 [Worker-28: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 20:53:36,387 [Worker-28: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 20:57:07,844 [Worker-23: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 20:57:07,845 [Worker-23: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 20:57:07,847 [Worker-23: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 20:57:07,847 [Worker-23: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 20:57:55,050 [Worker-24: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 20:57:55,051 [Worker-24: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 20:57:55,052 [Worker-24: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 20:57:55,052 [Worker-24: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 21:02:02,247 [Worker-33: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 21:02:02,248 [Worker-33: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 21:02:02,249 [Worker-33: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 21:02:02,249 [Worker-33: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 21:05:57,502 [Worker-32: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 21:05:57,503 [Worker-32: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 21:05:57,505 [Worker-32: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 21:05:57,505 [Worker-32: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 21:06:28,622 [Worker-33: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 21:06:28,623 [Worker-33: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 21:06:28,624 [Worker-33: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 21:06:28,625 [Worker-33: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 21:06:48,498 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 21:06:48,499 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 21:06:48,500 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 21:06:48,500 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 21:08:04,515 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 21:08:04,516 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 21:08:04,517 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 21:08:04,517 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 21:12:11,169 [Worker-34: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 21:12:11,169 [Worker-34: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 21:12:11,171 [Worker-34: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 21:12:11,171 [Worker-34: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 21:32:44,252 [Worker-40: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 21:32:44,253 [Worker-40: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 21:32:44,255 [Worker-40: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 21:32:44,256 [Worker-40: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 22:09:55,530 [Worker-55: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:09:55,531 [Worker-55: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 22:09:55,532 [Worker-55: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:09:55,532 [Worker-55: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 22:10:21,155 [Worker-57: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:10:21,155 [Worker-57: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 22:10:21,156 [Worker-57: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:10:21,157 [Worker-57: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 22:11:20,985 [Worker-53: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:11:20,986 [Worker-53: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-10 22:11:20,986 [Worker-53: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:11:20,987 [Worker-53: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 22:27:57,356 [Worker-61: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:27:57,357 [Worker-61: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 22:27:57,358 [Worker-61: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:27:57,358 [Worker-61: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 22:28:14,932 [Worker-60: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:28:14,933 [Worker-60: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-10 22:28:14,934 [Worker-60: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:28:14,934 [Worker-60: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 22:32:40,862 [Worker-62: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:32:40,863 [Worker-62: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 22:32:40,864 [Worker-62: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:32:40,865 [Worker-62: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 22:33:12,231 [Worker-61: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:33:12,232 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 22:33:12,233 [Worker-61: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:33:12,233 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 22:37:39,527 [Worker-65: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:37:39,528 [Worker-65: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 22:37:39,529 [Worker-65: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:37:39,529 [Worker-65: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 22:38:10,580 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:38:10,581 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 22:38:10,583 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:38:10,583 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 22:39:49,106 [Worker-65: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:39:49,107 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 22:39:49,109 [Worker-65: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:39:49,109 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 22:41:17,261 [Worker-67: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:41:17,262 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 22:41:17,263 [Worker-67: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:41:17,264 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 22:41:25,504 [Worker-67: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:41:25,505 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 22:41:25,506 [Worker-67: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:41:25,507 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 22:41:43,366 [Worker-66: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:41:43,367 [Worker-66: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 22:41:43,368 [Worker-66: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:41:43,368 [Worker-66: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 22:43:53,165 [Worker-65: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:43:53,166 [Worker-65: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 22:43:53,167 [Worker-65: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:43:53,167 [Worker-65: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 22:44:11,035 [Worker-62: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:44:11,036 [Worker-62: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 22:44:11,039 [Worker-62: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:44:11,039 [Worker-62: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 22:44:35,351 [Worker-71: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:44:35,352 [Worker-71: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 22:44:35,353 [Worker-71: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:44:35,353 [Worker-71: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 22:46:16,037 [Worker-65: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:46:16,038 [Worker-65: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 22:46:16,038 [Worker-65: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:46:16,039 [Worker-65: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 22:50:23,585 [Worker-62: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:50:23,587 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 22:50:23,588 [Worker-62: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:50:23,588 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 22:51:47,640 [Worker-76: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:51:47,641 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 22:51:47,642 [Worker-76: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:51:47,642 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 22:52:07,906 [Worker-75: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:52:07,907 [Worker-75: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 22:52:07,908 [Worker-75: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:52:07,909 [Worker-75: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 22:52:47,565 [Worker-65: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:52:47,566 [Worker-65: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 22:52:47,567 [Worker-65: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:52:47,567 [Worker-65: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 22:53:20,637 [Worker-75: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:53:20,637 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 22:53:20,638 [Worker-75: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:53:20,638 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 22:54:50,694 [Worker-65: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:54:50,695 [Worker-65: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 22:54:50,697 [Worker-65: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:54:50,697 [Worker-65: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 22:55:22,939 [Worker-65: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:55:22,940 [Worker-65: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 22:55:22,941 [Worker-65: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:55:22,941 [Worker-65: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 22:55:35,339 [Worker-75: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:55:35,340 [Worker-75: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 22:55:35,341 [Worker-75: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:55:35,341 [Worker-75: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 22:55:52,735 [Worker-69: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:55:52,736 [Worker-69: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 22:55:52,736 [Worker-69: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:55:52,737 [Worker-69: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 22:56:15,011 [Worker-74: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:56:15,011 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 22:56:15,012 [Worker-74: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:56:15,012 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 22:56:30,587 [Worker-75: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:56:30,588 [Worker-75: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 22:56:30,589 [Worker-75: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:56:30,589 [Worker-75: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 22:56:57,747 [Worker-65: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:56:57,748 [Worker-65: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 22:56:57,749 [Worker-65: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:56:57,749 [Worker-65: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 22:57:03,768 [Worker-69: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:57:03,769 [Worker-69: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 22:57:03,770 [Worker-69: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:57:03,770 [Worker-69: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 22:57:20,662 [Worker-65: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:57:20,663 [Worker-65: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 22:57:20,663 [Worker-65: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:57:20,663 [Worker-65: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 22:57:27,562 [Worker-77: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:57:27,563 [Worker-77: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 22:57:27,564 [Worker-77: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:57:27,564 [Worker-77: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 22:57:36,094 [Worker-62: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:57:36,095 [Worker-62: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 22:57:36,096 [Worker-62: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:57:36,101 [Worker-62: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 22:58:14,081 [Worker-62: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:58:14,082 [Worker-62: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 22:58:14,083 [Worker-62: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:58:14,084 [Worker-62: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 22:58:23,060 [Worker-69: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:58:23,061 [Worker-69: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 22:58:23,063 [Worker-69: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:58:23,063 [Worker-69: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 22:58:32,971 [Worker-65: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:58:32,972 [Worker-65: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 22:58:32,973 [Worker-65: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 22:58:32,973 [Worker-65: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 23:00:46,313 [Worker-78: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:00:46,313 [Worker-78: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 23:00:46,314 [Worker-78: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:00:46,314 [Worker-78: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 23:01:18,823 [Worker-76: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:01:18,823 [Worker-76: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 23:01:18,824 [Worker-76: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:01:18,825 [Worker-76: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 23:01:28,615 [Worker-78: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:01:28,616 [Worker-78: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 23:01:28,617 [Worker-78: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:01:28,617 [Worker-78: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 23:02:08,964 [Worker-79: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:02:08,964 [Worker-79: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 23:02:08,965 [Worker-79: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:02:08,965 [Worker-79: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 23:04:16,331 [Worker-81: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:04:16,332 [Worker-81: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 23:04:16,332 [Worker-81: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:04:16,333 [Worker-81: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 23:04:46,970 [Worker-75: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:04:46,970 [Worker-75: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 23:04:46,971 [Worker-75: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:04:46,971 [Worker-75: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 23:05:46,870 [Worker-81: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:05:46,870 [Worker-81: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 23:05:46,871 [Worker-81: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:05:46,872 [Worker-81: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 23:10:58,093 [Worker-81: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:10:58,093 [Worker-81: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 23:10:58,094 [Worker-81: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:10:58,095 [Worker-81: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 23:11:13,233 [Worker-78: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:11:13,234 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 23:11:13,236 [Worker-78: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:11:13,236 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 23:12:14,267 [Worker-78: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:12:14,268 [Worker-78: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 23:12:14,269 [Worker-78: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:12:14,269 [Worker-78: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 23:12:54,133 [Worker-78: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:12:54,134 [Worker-78: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 23:12:54,135 [Worker-78: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:12:54,135 [Worker-78: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 23:25:06,132 [Worker-76: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:25:06,133 [Worker-76: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 23:25:06,134 [Worker-76: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:25:06,135 [Worker-76: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 23:27:45,224 [Worker-82: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:27:45,225 [Worker-82: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 23:27:45,226 [Worker-82: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:27:45,226 [Worker-82: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 23:30:01,558 [Worker-84: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:30:01,559 [Worker-84: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 23:30:01,560 [Worker-84: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:30:01,560 [Worker-84: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 23:30:38,016 [Worker-75: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:30:38,017 [Worker-75: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 23:30:38,017 [Worker-75: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:30:38,018 [Worker-75: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 23:32:52,301 [Worker-86: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:32:52,302 [Worker-86: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 23:32:52,303 [Worker-86: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:32:52,303 [Worker-86: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 23:33:51,372 [Worker-85: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:33:51,373 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 23:33:51,375 [Worker-85: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:33:51,375 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 23:35:47,636 [Worker-76: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:35:47,637 [Worker-76: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 23:35:47,638 [Worker-76: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:35:47,638 [Worker-76: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 23:35:57,260 [Worker-87: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:35:57,261 [Worker-87: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-10 23:35:57,261 [Worker-87: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:35:57,262 [Worker-87: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 23:36:20,302 [Worker-75: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:36:20,303 [Worker-75: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 23:36:20,304 [Worker-75: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:36:20,304 [Worker-75: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 23:36:53,032 [Worker-76: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:36:53,033 [Worker-76: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-10 23:36:53,034 [Worker-76: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:36:53,034 [Worker-76: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 23:37:07,563 [Worker-89: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:37:07,564 [Worker-89: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 23:37:07,565 [Worker-89: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:37:07,565 [Worker-89: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 23:37:54,908 [Worker-85: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:37:54,909 [Worker-85: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 23:37:54,910 [Worker-85: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:37:54,910 [Worker-85: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 23:39:20,343 [Worker-88: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:39:20,343 [Worker-88: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 23:39:20,344 [Worker-88: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:39:20,345 [Worker-88: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 23:40:57,503 [Worker-75: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:40:57,504 [Worker-75: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 23:40:57,505 [Worker-75: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:40:57,505 [Worker-75: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 23:42:10,901 [Worker-86: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:42:10,901 [Worker-86: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 23:42:10,902 [Worker-86: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:42:10,903 [Worker-86: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 23:44:10,896 [Worker-75: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:44:10,897 [Worker-75: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 23:44:10,898 [Worker-75: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:44:10,899 [Worker-75: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 23:46:33,579 [Worker-94: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:46:33,580 [Worker-94: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 23:46:33,581 [Worker-94: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:46:33,582 [Worker-94: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 23:50:00,060 [Worker-93: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:50:00,061 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 23:50:00,063 [Worker-93: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:50:00,063 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 23:51:00,361 [Worker-94: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:51:00,362 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 23:51:00,363 [Worker-94: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:51:00,364 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 23:51:22,063 [Worker-86: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:51:22,064 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 23:51:22,066 [Worker-86: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:51:22,066 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 23:51:34,771 [Worker-94: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:51:34,772 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 23:51:34,773 [Worker-94: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:51:34,774 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
+2020-10-10 23:52:13,259 [Worker-84: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:52:13,260 [Worker-84: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2020-10-10 23:52:13,262 [Worker-84: Launching CodingCompCsvUtilTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-10 23:52:13,262 [Worker-84: Launching CodingCompCsvUtilTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/gabe/Desktop/2020/2020-StateFarm-CodingCompetitionProblem/src/test/resources
